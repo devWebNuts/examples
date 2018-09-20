@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "serverless.com",
   "license": "MIT",
-   "dependencies": {
-    "serverless-azure-functions": "^0.2.0"
+  "dependencies": {
+    "serverless-azure-functions": "^0.6.0"
   }
 }
